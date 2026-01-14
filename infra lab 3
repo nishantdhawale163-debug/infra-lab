@@ -1,0 +1,5 @@
+infra-lab/
+└── linux-server/
+    ├── hardening/
+    ├── monitoring/
+    └── docs/
